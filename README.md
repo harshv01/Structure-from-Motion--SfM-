@@ -18,7 +18,7 @@ The Traditional approach follows a series of steps to achieve this, which are ou
 8. **Bundle Adjustment**
 
 ## Results
-The repository includes the implementation and results of each step in the SfM process. The reprojected errors after each step are provided in a table for analysis. <br>
+The repository includes the implementation and results of each step in the SfM process. The figure below shows the triangulation results. The reprojected errors after each step are provided in a table for analysis. <br>
 <img src="https://github.com/user-attachments/assets/17a28cb7-23e8-43de-b810-9cfb0e84719b" height="400">
 <img src="https://github.com/user-attachments/assets/13763030-07b9-4eb2-8f22-d4691794eac3" height="400">
 <img width="643" alt="result_table" src="https://github.com/user-attachments/assets/8a78aa3f-bac7-45d1-ab6d-2c1c1d80cbb5" />
