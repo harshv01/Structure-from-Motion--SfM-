@@ -15,10 +15,9 @@ This repository contains the implementation of Structure from Motion (SfM). SfM 
 
 ## Results
 The repository includes the implementation and results of each step in the SfM process. The reprojected errors after each step are provided in a table for analysis.
-![Table Results](Phase1/result_table.png)
-
-![2D representation of the Projected Points](Phase1/Results/2D.png)
-![3D representation of the Projected Points](Phase1/Results/3D.png)
+<img src="https://github.com/user-attachments/assets/17a28cb7-23e8-43de-b810-9cfb0e84719b" height="400">
+<img src="https://github.com/user-attachments/assets/13763030-07b9-4eb2-8f22-d4691794eac3" height="400">
+<img width="643" alt="result_table" src="https://github.com/user-attachments/assets/8a78aa3f-bac7-45d1-ab6d-2c1c1d80cbb5" />
 
 ## Usage
 To run the code and reproduce the results, follow these steps:
